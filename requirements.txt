@@ -1,0 +1,14 @@
+tiktoken
+langchain
+PyPDF2
+openai==0.28.1
+faiss-gpu
+faiss-cpu
+streamlit
+streamlit_chat
+youtube-search 
+yt-dlp
+whisper
+pytube
+youtube_transcript_api
+-U sentence-transformers
